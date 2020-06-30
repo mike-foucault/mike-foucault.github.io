@@ -1,7 +1,7 @@
 ---
 title: "Talks"
 image: "golang_meetup_framework.jpg"
-draft: true
+draft: false
 weight: 0
 ---
 

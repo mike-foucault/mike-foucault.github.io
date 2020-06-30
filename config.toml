@@ -2,6 +2,7 @@ baseURL = "https://mike.foucault.io"
 languageCode = "en-us"
 title = "Mike-Anthony FOUCAULT"
 theme = "introduction"
+googleAnalytics = "UA-59779657-1"
 
 [params]
     themeStyle                   = "light"                 # Choose "light" or "dark"
